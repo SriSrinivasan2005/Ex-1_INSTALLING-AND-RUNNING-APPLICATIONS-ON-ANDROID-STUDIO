@@ -1,4 +1,10 @@
 # Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
+**Name:** SRI SRINIVASAN K
+
+**Register Number:** 212224220104
+
+**Department:** B.Tech Information Technology
+
 ## 1. AIM:
 To develop an Android-based Student Management System using Java that allows users to add, edit, delete, and manage student details, attendance, and marks, while displaying average attendance and marks statistics.
 
